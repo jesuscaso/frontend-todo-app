@@ -6,7 +6,7 @@ export default function Footer() {
             <p>
                 Desarrollado por Jesús Caso · Curso 2025 &nbsp;
                 <a
-                    href="https://github.com/idoia-durana"
+                    href="https://github.com/jesuscaso"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="github-link"
