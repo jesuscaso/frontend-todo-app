@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="footer">
             <p>
-                Desarrollado por Nombre del Alumno · Curso 2025 &nbsp;
+                Desarrollado por Jesús Caso · Curso 2025 &nbsp;
                 <a
                     href="https://github.com/idoia-durana"
                     target="_blank"
